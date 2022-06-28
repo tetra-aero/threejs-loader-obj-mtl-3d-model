@@ -76,17 +76,20 @@
 				};
 
 				new MTLLoader()
-					.setPath( './models/obj/male02/' )
-					.load( 'male02.mtl', function ( materials ) {
+					.setPath( './models/obj/teTra-Mk5-miniature-model/' )
+					.load( 'teTra-Mk5-miniature-model.mtl', function ( materials ) {
 
 						materials.preload();
 
 						new OBJLoader()
 							.setMaterials( materials )
-							.setPath( './models/obj/male02/' )
-							.load( 'male02.obj', function ( object ) {
+							.setPath( './models/obj/teTra-Mk5-miniature-model/' )
+							.load( 'teTra-Mk5-miniature-model.obj', function ( object ) {
 
-								object.position.y = - 95;
+								object.position.y = -200;
+								object.scale.x = object.scale.x * 100.0;
+								object.scale.y = object.scale.y * 100.0;
+								object.scale.z = object.scale.z * 100.0;
 								scene.add( object );
 
 							}, onProgress );
