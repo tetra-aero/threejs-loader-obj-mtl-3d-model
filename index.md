@@ -4,11 +4,11 @@ Hi, we are [teTra Aviation Corp.](https://www.tetra-aviation.com/).
 This page is that you can veiew 3D model of teTra Mk-5 (miniture and full scale).
 
 ### Miniature teTra Mk-5 in photogrametry/Lidar
-- [three.js webgl - OBJLoader + MTLLoader](https://tetra-aero.github.io/threejs-loader-obj-mtl-3d-model/miniature-tetra-mk5-webgl-loader-obj-mtl.html)
-- [html5 a-frame](https://tetra-aero.github.io/threejs-loader-obj-mtl-3d-model/miniature-tetra-mk5-afreme.html)
+- [Viewing miniature of teTra Mk-5 with three.js webgl - OBJLoader + MTLLoader](https://tetra-aero.github.io/threejs-loader-obj-mtl-3d-model/miniature-tetra-mk5-webgl-loader-obj-mtl.html)
+- [Viewing miniature of teTra Mk-5 with html5, a-frame](https://tetra-aero.github.io/threejs-loader-obj-mtl-3d-model/miniature-tetra-mk5-afreme.html)
 
 ### Full scale teTra Mk-5 in photogrametry/Lidar
-- comming soon
+- [Viewing full scale teTra Mk-5 with html5, a-frame](https://tetra-aero.github.io/threejs-loader-obj-mtl-3d-model/full-scale-tetra-mk5-aframe.html)
 
 ### Copyright and Contact
 
